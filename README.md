@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mahmud Jibril
-- 👀 I’m interested in Javascript, React, React Native and Node.JS   
-- 🌱 I’m currently learning React Native, Python and Flutter 
+- 👋 Hi, I’m Mahmud Jibril Usman known as M.J Usman
+- 👀 I’m interested in Javascript, Typescript, React, React Native and Node.JS   
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on my idears.
 - 📫 How to reach me? email: mahmud.jibril@ymail.com 
 
