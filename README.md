@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmud Jibril Usman known as M.J Usman
-- 👀 I’m interested in Javascript, Typescript, React, React Native and Node.JS   
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on my idears.
+- 👀 I’m a full stack developer   
+- 🌱 I’m good at Javascript, Typescript, React, React Native and Node.JS 
+- 💞️ I’m interested in new technologies such AI.
 - 📫 How to reach me? email: mahmud.jibril@ymail.com 
 
 <!---
